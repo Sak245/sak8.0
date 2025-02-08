@@ -1,0 +1,4 @@
+streamlit
+lamini-sdk
+pandas
+python-dotenv

@@ -1,4 +1,3 @@
 streamlit>=1.22.0
 pandas>=1.3.5
-lamini==0.1.1
-
+lamini==3.2.7
